@@ -14,9 +14,6 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-# ============================================================================
-# PAGE CONFIG & STYLING
-# ============================================================================
 st.set_page_config(
     page_title="Churn Prediction System",
     page_icon="📊",
