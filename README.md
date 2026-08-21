@@ -2,7 +2,7 @@
 
 A machine learning web app built with **Streamlit** that predicts whether a customer is likely to churn, helping businesses take proactive retention actions.
  
-🔗 **Live Demo**: [customer-churn-prediction-ishika.streamlit.app](https://customer-churn-prediction-ishika.streamlit.app)
+🔗 **Live Demo**: [customer-churn-prediction-ishika.streamlit.app](https://customer-churn-prediction-ishika.streamlit.app/)
 
 ---
 
